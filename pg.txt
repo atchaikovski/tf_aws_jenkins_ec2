@@ -1,0 +1,14 @@
+credentials-binding
+bouncycastle-api
+ssh-credentials
+ssh-slaves
+credentials
+plain-credentials
+credentials-binding
+authentication-tokens
+docker-plugin
+pam-auth
+script-security
+cloudbees-folder
+cloudbees-credentials
+workflow-aggregator
